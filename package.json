@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/otp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple and lightweight library for generating and verifying one-time passwords (OTP) that are compatible with Google Authenticator. It supports both time-based (TOTP) and counter-based (HOTP) OTPs.",
   "keywords": [
     "otp",
